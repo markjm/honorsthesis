@@ -1,4 +1,4 @@
-# Honors Thesis (UNC Computer Science)
+# Honors Thesis (from Mark M @ UNC Dept of Computer Science)
 
 Many automated theorem proving applications rely on the DPLL
 algorithm for deciding the satisfiability of a set of propositional logic
